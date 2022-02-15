@@ -1,2 +1,2 @@
-# Pratik---Faktoriyel-Hesaplayan-Program
-Patika Dev. | Java101 - Pratik - Faktöriyel Hesaplayan Program
+# Pratik---Kombinasyon-Hesaplayan-Program
+Patika Dev. | Java101 - Pratik - Kombinasyon Hesaplayan Program
